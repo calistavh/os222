@@ -24,3 +24,13 @@ with a list of context-aware actions that changes based on what you've typed.
 Another interactive tutorial, this time for regular expressions or regex.
 Like Open Vim, it features a clean interface so you won't get distracted as you
 learn. It also has Cheatsheet for the patterns and Playground to test them out.
+
+4. [Explain Shell](https://explainshell.com/)<br>
+A website that tells you what a Linux command line does. 
+If you ever get confused with the lines in the assignment instructions, just 
+paste them here and it will tell you what each command and option does.
+
+5. [Makefile Tutorial](https://makefiletutorial.com/)
+This website may help you if you're struggling in understanding Makefiles for C. 
+It starts from the very basic structure then expands on variables, rules, and 
+many more.
