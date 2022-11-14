@@ -69,3 +69,10 @@ ZCZC W06 120 L06 Books related
 ZCZC W06 30 L16 Assignment #06
 ZCZC W06 20 L40 TXT/ related
 ZCZC W06 200 L99 Face-to-face lecture
+ZCZC W07 15 L01 SCELE/Discord related
+ZCZC W07 5 L03 GitHub and git related
+ZCZC W07 15 L05 Quiz related
+ZCZC W07 15 L06 Books related
+ZCZC W07 60 L17 Assignment #07
+ZCZC W07 30 L40 TXT/ related in general
+ZCZC W07 200 L99 Face-to-face lecture
